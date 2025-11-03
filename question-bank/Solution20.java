@@ -1,3 +1,6 @@
+import java.util.Map;
+import java.util.Stack;
+
 class Solution20 {
     public boolean isValid(String s) {
         Map<Character, Character> map = Map.of('(', ')', '[', ']', '{', '}');

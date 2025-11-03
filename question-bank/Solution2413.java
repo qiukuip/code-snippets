@@ -1,5 +1,3 @@
-package day.happy365.leetcode.p1;
-
 public class Solution2413 {
     // n 和 2 的最小公倍数
     public int smallestEvenMultiple(int n) {

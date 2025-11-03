@@ -1,5 +1,3 @@
-package day.happy365.leetcode.p1;
-
 import java.util.Arrays;
 
 public class Solution2469 {
