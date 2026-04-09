@@ -1,3 +1,7 @@
+/**
+ * @author longkun
+ * @description 53. 最大子序和
+ */
 public class Solution53 {
     public int maxSubArray(int[] nums) {
         int length = nums.length;
