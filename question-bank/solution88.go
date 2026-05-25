@@ -43,7 +43,7 @@ func printNums(nums []int) {
 	fmt.Println()
 }
 
-func main() {
+func main1() {
 	// nums1 := []int{1, 2, 3, 0, 0, 0}
 	// m := 3
 	// nums2 := []int{2, 5, 6}
