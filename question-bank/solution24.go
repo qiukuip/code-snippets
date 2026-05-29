@@ -50,7 +50,7 @@ func printList(head *ListNode) {
 	fmt.Println()
 }
 
-func main() {
+func main2() {
 	// values := []int{1, 2, 3, 4}
 	// values := []int{1}
 	values := []int{1, 2}
